@@ -1,0 +1,1 @@
+This project is a video lesson -> https://www.youtube.com/watch?v=8B8LUn6XEkA Web Vitals + DIY Chrome Extension = Performance Insight
